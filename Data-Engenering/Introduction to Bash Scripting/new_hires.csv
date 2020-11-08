@@ -1,0 +1,248 @@
+﻿Country,City,Job Name,Salary
+Afghanistan,Kabul,Javascript Developer,158003
+Akrotiri and Dhekelia,Episkopi Cantonment,Python Developer,194640
+Albania,Tirana,Data Scientist,187506
+Algeria,Algiers,Javascript Developer,165451
+American Samoa,Pago Pago,Python Developer,175138
+Andorra,Andorra la Vella,Data Scientist,197452
+Angola,Luanda,Javascript Developer,144335
+Anguilla,The Valley,Python Developer,121100
+Antigua and Barbuda,St. John's,Data Scientist,108816
+Argentina,Buenos Aires,Javascript Developer,170031
+Armenia,Yerevan,Python Developer,132185
+Aruba,Oranjestad,Data Scientist,117599
+Ascension Island,Georgetown,Javascript Developer,136959
+Australia,Canberra,Python Developer,124360
+Austria,Vienna,Data Scientist,107062
+Azerbaijan,Baku,Javascript Developer,110419
+Bahamas,Nassau,Python Developer,162896
+Bahrain,Manama,Data Scientist,116678
+Bangladesh,Dhaka,Javascript Developer,110534
+Barbados,Bridgetown,Python Developer,182765
+Belarus,Minsk,Data Scientist,120117
+Belgium,Brussels,Javascript Developer,140529
+Belize,Belmopan,Python Developer,194547
+Benin,Porto-Novo,Data Scientist,115048
+Bermuda,Hamilton,Javascript Developer,168567
+Bhutan,Thimphu,Python Developer,197511
+Bolivia,Sucre,Data Scientist,168100
+Bolivia,La Paz,Javascript Developer,136749
+Bosnia and Herzegovina,Sarajevo,Python Developer,154437
+Botswana,Gaborone,Data Scientist,106058
+Brazil,Brasília,Javascript Developer,108746
+British Virgin Islands,Road Town,Python Developer,131279
+Brunei,Bandar Seri Begawan,Data Scientist,109658
+Bulgaria,Sofia,Javascript Developer,141288
+Burkina Faso,Ouagadougou,Python Developer,108697
+Burundi,Bujumbura,Data Scientist,134521
+Cambodia,Phnom Penh,Javascript Developer,144723
+Cameroon,Yaoundé,Python Developer,108511
+Canada,Ottawa,Data Scientist,193222
+Cape Verde,Praia,Javascript Developer,103541
+Cayman Islands,George Town,Python Developer,108448
+Central African Republic,Bangui,Data Scientist,197985
+Chad,N'Djamena,Javascript Developer,119576
+Chile,Santiago,Python Developer,144957
+China,Beijing,Data Scientist,110494
+Christmas Island,Flying Fish Cove,Javascript Developer,182770
+Cocos (Keeling) Islands,West Island,Python Developer,146953
+Colombia,Bogotá,Data Scientist,110718
+Comoros,Moroni,Javascript Developer,170534
+Cook Islands,Avarua,Python Developer,126402
+Costa Rica,San José,Data Scientist,163526
+Croatia,Zagreb,Javascript Developer,196621
+Cuba,Havana,Python Developer,138676
+Curaçao,Willemstad,Data Scientist,199243
+Cyprus,Nicosia,Javascript Developer,156610
+Czech Republic,Prague,Python Developer,190252
+Côte d'Ivoire,Yamoussoukro,Data Scientist,101818
+Democratic Republic of the Congo,Kinshasa,Javascript Developer,144057
+Denmark,Copenhagen,Python Developer,122343
+Djibouti,Djibouti,Data Scientist,109486
+Dominica,Roseau,Javascript Developer,168415
+Dominican Republic,Santo Domingo,Python Developer,137618
+East Timor (Timor-Leste),Dili,Data Scientist,161639
+Easter Island,Hanga Roa,Javascript Developer,169520
+Ecuador,Quito,Python Developer,152898
+Egypt,Cairo,Data Scientist,139563
+El Salvador,San Salvador,Javascript Developer,176474
+Equatorial Guinea,Malabo,Python Developer,186431
+Eritrea,Asmara,Data Scientist,143011
+Estonia,Tallinn,Javascript Developer,118286
+Ethiopia,Addis Ababa,Python Developer,129221
+Falkland Islands,Stanley,Data Scientist,154444
+Faroe Islands,Tórshavn,Javascript Developer,172012
+Federated States of Micronesia,Palikir,Python Developer,162078
+Fiji,Suva,Data Scientist,139146
+Finland,Helsinki,Javascript Developer,151630
+France,Paris,Python Developer,196594
+French Guiana,Cayenne,Data Scientist,149203
+French Polynesia,Papeete,Javascript Developer,157425
+Gabon,Libreville,Python Developer,110046
+Gambia,Banjul,Data Scientist,198984
+Georgia,Tbilisi,Javascript Developer,154099
+Germany,Berlin,Python Developer,151540
+Ghana,Accra,Data Scientist,165130
+Gibraltar,Gibraltar,Javascript Developer,176584
+Greece,Athens,Python Developer,155301
+Greenland,Nuuk,Data Scientist,174789
+Grenada,St. George's,Javascript Developer,139191
+Guam,Hagåtña,Python Developer,121230
+Guatemala,Guatemala City,Data Scientist,149688
+Guernsey,St. Peter Port,Javascript Developer,131274
+Guinea,Conakry,Python Developer,144729
+Guinea-Bissau,Bissau,Data Scientist,142815
+Guyana,Georgetown,Javascript Developer,115453
+Haiti,Port-au-Prince,Python Developer,167631
+Honduras,Tegucigalpa,Data Scientist,128518
+Hungary,Budapest,Javascript Developer,100647
+Iceland,Reykjavík,Python Developer,108633
+India,New Delhi,Data Scientist,171176
+Indonesia,Jakarta,Javascript Developer,190479
+Iran,Tehran,Python Developer,160466
+Iraq,Baghdad,Data Scientist,145552
+Ireland,Dublin,Javascript Developer,117407
+Isle of Man,Douglas,Python Developer,162394
+Israel,Jerusalem,Data Scientist,139496
+Italy,Rome,Javascript Developer,135758
+Jamaica,Kingston,Python Developer,166320
+Japan,Tokyo,Data Scientist,153282
+Jersey,St. Helier,Javascript Developer,182900
+Jordan,Amman,Python Developer,184672
+Kazakhstan,Astana,Data Scientist,159325
+Kenya,Nairobi,Javascript Developer,185797
+Kiribati,Tarawa,Python Developer,126893
+Kosovo,Pristina,Data Scientist,194406
+Kuwait,Kuwait City,Javascript Developer,187807
+Kyrgyzstan,Bishkek,Python Developer,143624
+Laos,Vientiane,Data Scientist,158998
+Latvia,Riga,Javascript Developer,138860
+Lebanon,Beirut,Python Developer,150574
+Lesotho,Maseru,Data Scientist,110906
+Liberia,Monrovia,Javascript Developer,145910
+Libya,Tripoli,Python Developer,136186
+Liechtenstein,Vaduz,Data Scientist,194933
+Lithuania,Vilnius,Javascript Developer,108336
+Luxembourg,Luxembourg,Python Developer,189002
+Macedonia,Skopje,Data Scientist,176952
+Madagascar,Antananarivo,Javascript Developer,111519
+Malawi,Lilongwe,Python Developer,138832
+Malaysia,Kuala Lumpur,Data Scientist,150227
+Maldives,Malé,Javascript Developer,130820
+Mali,Bamako,Python Developer,178694
+Malta,Valletta,Data Scientist,143680
+Marshall Islands,Majuro,Javascript Developer,113927
+Mauritania,Nouakchott,Python Developer,189484
+Mauritius,Port Louis,Data Scientist,139543
+Mexico,Mexico City,Javascript Developer,104256
+Moldova,Chisinau,Python Developer,170386
+Monaco,Monaco,Data Scientist,158150
+Mongolia,Ulaanbaatar,Javascript Developer,166910
+Montenegro,Podgorica,Python Developer,192131
+Montserrat,Plymouth,Data Scientist,113057
+Morocco,Rabat,Javascript Developer,138829
+Mozambique,Maputo,Python Developer,100774
+Myanmar,Naypyidaw,Data Scientist,167511
+Nagorno-Karabakh Republic,Stepanakert,Javascript Developer,182391
+Namibia,Windhoek,Python Developer,107486
+Nauru,Yaren,Data Scientist,161616
+Nepal,Kathmandu,Javascript Developer,130254
+Netherlands,Amsterdam,Python Developer,116305
+New Caledonia,Nouméa,Data Scientist,191058
+New Zealand,Wellington,Javascript Developer,184445
+Nicaragua,Managua,Python Developer,171664
+Niger,Niamey,Data Scientist,103915
+Nigeria,Abuja,Javascript Developer,158534
+Niue,Alofi,Python Developer,154802
+Norfolk Island,Kingston,Data Scientist,161910
+North Korea,Pyongyang,Javascript Developer,137490
+Northern Cyprus,Nicosia,Python Developer,150221
+United Kingdom Northern Ireland,Belfast,Data Scientist,127908
+Northern Mariana Islands,Saipan,Javascript Developer,134506
+Norway,Oslo,Python Developer,191524
+Oman,Muscat,Data Scientist,127398
+Pakistan,Islamabad,Javascript Developer,133270
+Palau,Ngerulmud,Python Developer,153440
+Palestine,Jerusalem,Data Scientist,118988
+Panama,Panama City,Javascript Developer,124255
+Papua New Guinea,Port Moresby,Python Developer,164120
+Paraguay,Asunción,Data Scientist,102438
+Peru,Lima,Javascript Developer,152697
+Philippines,Manila,Python Developer,190675
+Pitcairn Islands,Adamstown,Data Scientist,159402
+Poland,Warsaw,Javascript Developer,151446
+Portugal,Lisbon,Python Developer,135940
+Puerto Rico,San Juan,Data Scientist,117601
+Qatar,Doha,Javascript Developer,113681
+Republic of China (Taiwan),Taipei,Python Developer,117202
+Republic of the Congo,Brazzaville,Data Scientist,163569
+Romania,Bucharest,Javascript Developer,184935
+Russia,Moscow,Python Developer,195775
+Rwanda,Kigali,Data Scientist,182500
+Saint Barthélemy,Gustavia,Javascript Developer,103256
+Saint Helena,Jamestown,Python Developer,134955
+Saint Kitts and Nevis,Basseterre,Data Scientist,149197
+Saint Lucia,Castries,Javascript Developer,122002
+Saint Martin,Marigot,Python Developer,121829
+Saint Pierre and Miquelon,St. Pierre,Data Scientist,150855
+Saint Vincent and the Grenadines,Kingstown,Javascript Developer,187850
+Samoa,Apia,Python Developer,125417
+San Marino,San Marino,Data Scientist,159788
+Saudi Arabia,Riyadh,Javascript Developer,149598
+Scotland,Edinburgh,Python Developer,178814
+Senegal,Dakar,Data Scientist,194817
+Serbia,Belgrade,Javascript Developer,187022
+Seychelles,Victoria,Python Developer,134889
+Sierra Leone,Freetown,Data Scientist,118565
+Singapore,Singapore,Javascript Developer,174183
+Sint Maarten,Philipsburg,Python Developer,127868
+Slovakia,Bratislava,Data Scientist,142357
+Slovenia,Ljubljana,Javascript Developer,187045
+Solomon Islands,Honiara,Python Developer,122971
+Somalia,Mogadishu,Data Scientist,195194
+Somaliland,Hargeisa,Javascript Developer,130993
+South Africa,Pretoria,Python Developer,183428
+South Georgia and the South Sandwich Islands,Grytviken,Data Scientist,110361
+South Korea,Seoul,Javascript Developer,169193
+South Ossetia,Tskhinvali,Python Developer,148216
+South Sudan South Sudan,Juba,Data Scientist,126054
+Spain,Madrid,Javascript Developer,126549
+Sri Lanka,Sri Jayawardenapura Kotte,Python Developer,192261
+Sudan,Khartoum,Data Scientist,140325
+Suriname,Paramaribo,Javascript Developer,196085
+Swaziland,Mbabane,Python Developer,105075
+Sweden,Stockholm,Data Scientist,135941
+Switzerland,Bern,Javascript Developer,168916
+Syria,Damascus,Python Developer,162320
+São Tomé and Príncipe,São Tomé,Data Scientist,165090
+Tajikistan,Dushanbe,Javascript Developer,199770
+Tanzania,Dodoma,Python Developer,167604
+Thailand,Bangkok,Data Scientist,161752
+Togo,Lomé,Javascript Developer,116267
+Tonga,Nukuʻalofa,Python Developer,153077
+Transnistria,Tiraspol,Data Scientist,158240
+Trinidad and Tobago,Port of Spain,Javascript Developer,169605
+Tristan da Cunha,Edinburgh of the Seven Seas,Python Developer,184674
+Tunisia,Tunis,Data Scientist,194661
+Turkey,Ankara,Javascript Developer,193426
+Turkmenistan,Ashgabat,Python Developer,154447
+Turks and Caicos Islands,Cockburn Town,Data Scientist,108268
+Tuvalu,Funafuti,Javascript Developer,178916
+Uganda,Kampala,Python Developer,149857
+Ukraine,Kiev,Data Scientist,199437
+United Arab Emirates,Abu Dhabi,Javascript Developer,166728
+United Kingdom; England,London,Python Developer,147884
+United States,"Washington, D.C.",Data Scientist,179035
+United States Virgin Islands,Charlotte Amalie,Javascript Developer,195586
+Uruguay,Montevideo,Python Developer,181511
+Uzbekistan,Tashkent,Data Scientist,187487
+Vanuatu,Port Vila,Javascript Developer,198906
+Vatican City,Vatican City,Python Developer,165690
+Venezuela,Caracas,Data Scientist,189424
+Vietnam,Hanoi,Javascript Developer,199783
+Wales,Cardiff,Python Developer,104883
+Wallis and Futuna,Mata-Utu,Data Scientist,170898
+Western Sahara,El Aaiún,Javascript Developer,131782
+Yemen,Sanaá,Python Developer,134683
+Zambia,Lusaka,Data Scientist,171775
+Zimbabwe,Harare,Javascript Developer,194419

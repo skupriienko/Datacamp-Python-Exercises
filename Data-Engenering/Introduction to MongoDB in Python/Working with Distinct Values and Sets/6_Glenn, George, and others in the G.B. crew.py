@@ -1,0 +1,1 @@
+db.laureates.count_documents({"firstname": Regex('^G'), "surname": Regex('^S')})

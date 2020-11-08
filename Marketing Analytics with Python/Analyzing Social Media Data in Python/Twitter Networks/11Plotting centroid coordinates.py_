@@ -1,0 +1,15 @@
+# Calculate the centroids for the dataset 
+# and isolate longitudue and latitudes
+centroids = tweets_sotu['place'].apply(calculateCentroid)
+lon = [x[0] for x in centroids]
+lat = [x[1] for x in centroids]
+
+# Draw continents, coastlines, countries, and states
+m.fillcontinents(color='white', zorder = 0)
+m.drawcoastlines(color='gray')
+m.drawcountries(color='gray')
+m.drawstates(color='gray')
+
+# Draw the points and show the plot
+m.scatter(lon, lat, latlon = True, alpha = 0.7)
+plt.show()
