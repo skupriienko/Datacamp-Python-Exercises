@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pyspark-stubs = ">=2.4.0"
+pytest = "*"
+flake8 = "*"
+
+[packages]
+pyspark = ">=2.4.0"
+
+[requires]
+python_version = "3.6"
